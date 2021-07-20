@@ -1,0 +1,4 @@
+batch_size: 512
+n_hidden_1: 512
+n_hidden_2: 128
+num_classes: 10

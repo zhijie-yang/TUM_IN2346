@@ -1,0 +1,6 @@
+batch_size: 4
+learning_rate: 0.001
+n_hidden_classi: 64
+n_hidden_encode_1: 256
+n_hidden_encode_2: 64
+num_classes: 10

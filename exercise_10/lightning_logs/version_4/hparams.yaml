@@ -1,0 +1,5 @@
+batch_size: 128
+channel_1: 150
+channel_2: 64
+channel_3: 23
+learning_rate: 0.001

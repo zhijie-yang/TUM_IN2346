@@ -1,0 +1,5 @@
+embedding_dim: 150
+hidden_size: 150
+num_embeddings: 5003
+num_layers: 3
+use_lstm: true
